@@ -1,2 +1,3 @@
+// coded by @lasjorg
 // eslint-disable-next-line no-unused-vars
-const projectName = 'tribute-page';
+const projectName = 'survey-form';
